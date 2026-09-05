@@ -88,8 +88,6 @@ __pycache__/
   aptitud y los parámetros pedidos en el enunciado, con sus respectivas gráficas de
   convergencia y conclusiones.
 
-## Autores
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
+
+
